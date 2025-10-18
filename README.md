@@ -1,7 +1,7 @@
 # House-price-predictor
 A simple machine learning project to predict home prices based on house size using Linear Regression in Python.
 
-🛠 Technologies Used
+🛠 #Technologies Used
 
 Python – Programming language
 
@@ -13,7 +13,7 @@ Matplotlib – Data visualization
 
 Scikit-learn – Machine learning (Linear Regression, train-test split)
 
-📊 Features
+📊 #Features
 
 Visualize the relationship between house size and price using scatter plots.
 
@@ -21,7 +21,7 @@ Train a Linear Regression model to predict home prices.
 
 Compare predicted prices with actual prices through visual plots.
 
-⚡ How It Works
+⚡ #ow It Works
 
 Load the dataset using Pandas.
 
@@ -35,7 +35,7 @@ Predict house prices for the test set.
 
 Visualize actual vs predicted prices.
 
-📈 Dataset Requirements
+📈 #Dataset Requirements
 
 Minimum two columns: Size and Price.
 
